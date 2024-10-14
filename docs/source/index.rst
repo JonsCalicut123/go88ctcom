@@ -1,22 +1,16 @@
-Welcome to Lumache's documentation!
+Go88ct Com
 ===================================
 
-**Lumache** (/lu'make/) is a Python library for cooks and food lovers
-that creates recipes mixing random ingredients.
-It pulls data from the `Open Food Facts database <https://world.openfoodfacts.org/>`_
-and offers a *simple* and *intuitive* API.
+`Go88 <https://go88ct.com/>`_ - Cổng game đổi thưởng dành cho giới người giàu. Truy cập ngay link tải Go88 tài xỉu đại gia: Go88ct, Go88 CT. 
 
-Check out the :doc:`usage` section for further information, including
-how to :ref:`installation` the project.
+Thông tin liên hệ: 
 
-.. note::
+Địa chỉ: 8 P. Hàng Chuối, Phạm Đình Hổ, Hoàn Kiếm, Hà Nội, Việt Nam
 
-   This project is under active development.
+Phone: 0999885522
 
-Contents
---------
+Email: admin@go88ct.com
 
-.. toctree::
+Website: https://go88ct.com/
 
-   usage
-   api
+#go88, #go_88, #go88ct, #go88_ct, #go88chinhhang, #taigo88, #gamebaigo88, #gamdoithuonggo88, #taixiugo88, #dangkygo88
